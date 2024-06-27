@@ -1,1 +1,1 @@
-Probabality and stats
+Probability and Statics
